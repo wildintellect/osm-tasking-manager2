@@ -34,9 +34,9 @@
 </%def>
 
 <%def  name="footer_contact_text()">
-  ${_('Email HOT at')} <a href='mailto:info@hotosm.org'>info@hotosm.org</a><br />
-  ${_('Follow HOT on')} <a href='http://www.twitter.com/hotosm'>Twitter</a><br />
-  ${_('Like HOT on')} <a href='http://facebook.com/hotosm'>Facebook</a>
+  ${_('Email HOT at')} <a href='mailto:biogeo@ucdavis.edu'>biogeo@ucdavis.edu</a><br />
+  ${_('Follow HOT on')} <a href='https://twitter.com/geospatialucd'>Twitter</a><br />
+  
 </%def>
 
 <%def name="analytics()">
