@@ -34,9 +34,10 @@
 </%def>
 
 <%def  name="footer_contact_text()">
-  ${_('Email HOT at')} <a href='mailto:biogeo@ucdavis.edu'>biogeo@ucdavis.edu</a><br />
-  ${_('Follow HOT on')} <a href='https://twitter.com/geospatialucd'>Twitter</a><br />
   
+  ${_('Visit the ')} <a href='https://spatial.ucdavis.edu/'>Center for Spatial Sciences</a><br />
+  ${_('Follow Center for Spatial Sciences on')} <a href='https://twitter.com/geospatialucd'>Twitter</a><br />
+  ${_('Email Center for Spatial Sciences at')} <a href='mailto:biogeo@ucdavis.edu'>biogeo@ucdavis.edu</a><br />
 </%def>
 
 <%def name="analytics()">
